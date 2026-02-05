@@ -1,4 +1,4 @@
-package com.learning.platform.service; // Adjust package to match your project
+package com.learning.platform.service; 
 
 import com.learning.platform.entity.User;
 import com.learning.platform.repository.UserRepository;
